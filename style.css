@@ -1,0 +1,44 @@
+.imageNav-photo{
+    width: 175px;
+}
+
+.imageNav-header{
+    color: #0b9994;
+}
+
+.description-header{
+    color: #0b9994;
+}
+
+.navbar-brand{
+    background-color: #0b9994;
+    border-radius: 4px;
+    align-content: left;
+    margin-left: 40px;
+    color: white;
+}
+
+#description-image{
+    width: 300px;
+}
+
+.floated{
+    float: left;
+}
+
+.description-content{
+    padding: 20px;
+    margin: 20px;
+}
+
+.main-visual{
+    border: 5px, block,black;
+}
+
+.description-header{
+    color: #0b9994;
+}
+
+#datatable{
+    padding: 15px;
+}
