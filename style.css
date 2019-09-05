@@ -3,6 +3,7 @@
 }
 
 .imageNav-header{
+    margin-top: 20px;
     color: #0b9994;
 }
 
@@ -10,13 +11,27 @@
     color: #0b9994;
 }
 
-.navbar-brand{
+.navbar-nav{
+    color: white;
+}
+
+.navbar{
     background-color: #0b9994;
-    border-radius: 4px;
+}
+
+.navbar-brand{
     align-content: left;
     margin-left: 40px;
     color: white;
     text-emphasis-style: bold;
+}
+
+#navbarDropdownMenuLink{
+    color: white;
+}
+
+.nav-link{
+    color: white;
 }
 
 #description-image{
@@ -38,8 +53,19 @@
 
 .description-header{
     color: #0b9994;
+    margin-top: 20px;
 }
 
 #datatable{
     padding: 15px;
+}
+
+.compare-title{
+    color: #0b9994;
+    align-self: center;
+}
+
+.compare-photo{
+    width: 200px;
+    align-self: center;
 }
